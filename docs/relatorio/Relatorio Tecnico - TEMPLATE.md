@@ -111,32 +111,10 @@ Persona 2(Guilherme):
 >
 Persona 3(Matheus):
 - É uma pessoa muito ambiciosa, como várias metas, como: morar no exterior, realizar vários cursos/projetos e  possuir vários grupos de amigos.
-- Não consegue organizar todas suas atividades
+- Não consegue organizar todas suas atividades, sendo normalmente chamado de preguiçoso por não conseguir cumprir todas as coisas que ele se dispõe para fazer.
+- Necessita de algo que possa organizar suas atividades, mantendo um limete de atividades, além de recomendações para que possa montar um cronograma mais restrito, principalmente ao considerar que ele ainda está estudando para vestibulares.
 >
 >
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
 
 ## Histórias de Usuários
 
