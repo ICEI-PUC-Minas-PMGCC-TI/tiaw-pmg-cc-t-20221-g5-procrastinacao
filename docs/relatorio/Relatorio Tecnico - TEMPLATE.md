@@ -64,34 +64,10 @@ WANDERSON DE SOUZA PESSOA
   >
   Logo, o projeto propõe uma solução para vestibulandos e pessoas que que pretendem implementar uma rotina de estudo estável, podendo ser utilizada por escolas, cursinhos, faculdades ou até individualmente.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
   Desenvolver um software simples, intuitivo, flexível, interativo e que auxilie na organização de estudantes, com foco em seus objetivos finais. Especificando-se em vestibulandos e universitários que precisam ter uma rotina de estudos flexível de acordo com suas metas e seus resultados. Sendo assim, é possível que, durante o amadurecimento do projeto, por causa da flexilidade, o programa possa ser utilizado por mais grupos, como empresas e esportístas.
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -99,39 +75,14 @@ WANDERSON DE SOUZA PESSOA
 >
   Todas as características antes comentadas no tópico "Objetivos" devem ser essencialmente acrescentadas, considerando que o aplicativo pretende simplificar a rotina, diminuir a quantidade de informações decoradas e tempo gasto pelo usuário, então é indispensável que ele seja simples, intuitivo, flexível e interativo.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
-  O pricipal público-alvo são os estudantes que pretendem prestar algum vestibular e universitários. O foco do aplicativo é auxiliar pessoas que não possuem uma meta mas não consegue se organizar, então é essencial que estes estudantes possuam um objetivo final bem definido, sendo uma característica mais notada entre estudantes do 3° EM, de cursinhos, ou que estudam sozinhos. Como é uma ferramenta de controle de atividades, não é necessário que os usuário tenham algum conhecimento aprimorado em tecnologia, considerando que um dos focos é tornar o software acessível e intuitivo, mas é essêncial que tenha algua base para os vestibulares que pretende prestar.
+  O pricipal público-alvo são os estudantes que pretendem prestar algum vestibular e universitários. O foco do aplicativo é auxiliar pessoas que não possuem uma meta mas não consegue se organizar, então é essencial que estes estudantes possuam um objetivo final bem definido, sendo uma característica mais notada entre estudantes do 3° EM, de cursinhos, ou que estudam sozinhos. Como é uma ferramenta de controle de atividades, não é necessário que os usuário tenham algum conhecimento aprimorado em tecnologia, considerando que um dos focos é tornar o software acessível e intuitivo, mas é essêncial que tenha alguma base para os vestibulares que pretende prestar.
 >
-  
+  O público pretendido(que fizeram parte da pesquisa), são pessoas com menos de 27 anos, que possuem alguma dificuldade de concentração, organização e de planejamento.
+>
+  Os influenciadores seriam psicólogos e cursinhos. Pessoas importantes seriam indivíduos antes procrastinadores e que conseguiram superar este problema / pessoas com alta produtividade. E os fundamentais seriam Estudantes, vestibulandos e jovens em geral.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -142,8 +93,23 @@ WANDERSON DE SOUZA PESSOA
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Persona 1(Larissa): É uma jovem que entra precisamente para a solução do problema que o software deve oferecer, principalmente ao considerar sua desorganização com os estudos. Ela tem o objetivo de se formar em seu curso com o melhor rendimento possível e, além de ter isto como objetivo, ela é determinada o suficiente ao ponto de fazer o máximo para cumprir suas metas.
+>
+Sua visão é mais focada para o mercado de trabalho e como ela irá se adaptar a ele.
+>
+O progama pode melhorar seu rendimento estudantil e sua organização de tarefas diárias, preparando-a melhor para o mercado de trabalho.
+>
+>
+- Persona 2(Guilherme): Tem como objetivo investir em sua carreira professional para seguir seu sonho de ingressar em uma empresa que ajude animais em perigo
+>
+Se sente um pouco desnorteado na faculdade por não conseguir se adaptar, além ser ser desmotivado por críticas da família, diminuindo assim sua empolgação e rítmo de estudos.
+>
 
+>
+>
+- Persona 3(Matheus):
+>
+>
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
