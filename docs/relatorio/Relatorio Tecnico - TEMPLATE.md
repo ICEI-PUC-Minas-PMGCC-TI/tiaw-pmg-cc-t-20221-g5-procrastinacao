@@ -1,21 +1,23 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  G5 - PROCRASTINAÇÃO
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  CIÊNCIAS DA COMPUTAÇÃO
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+GABRIEL OLIVEIRA COSTA
 >
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+GUSTAVO LORENZO CAMPOS VIEIRA
+>
+IVO AUGUSTO NEVES DALCIN
+>
+LUÍS GUSTAVO DE MORAIS COSTA
+>
+WANDERSON DE SOUZA PESSOA
 
 # Estrutura do Documento
 
@@ -56,7 +58,11 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  A procrastinação é um problema recorrente na sociedade que afeta várias pessoas, principalmente jovens e estudantes, onde estará o foco principal do trabalho.
+  >
+  Procrastinar consiste em adiar e prolongar uma situação ou tarefa para depois, sendo um comportamento normal do ser humano, porém muito prejudicial. 
+  >
+  Logo, o projeto propõe uma solução para vestibulandos e pessoas que que pretendem implementar uma rotina de estudo estável, podendo ser utilizada por escolas, cursinhos, faculdades ou até individualmente.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +82,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Desenvolver um software simples, intuitivo, flexível, interativo e que auxilie na organização de estudantes, com foco em seus objetivos finais. Especificando-se em vestibulandos e universitários que precisam ter uma rotina de estudos flexível de acordo com suas metas e seus resultados. Sendo assim, é possível que, durante o amadurecimento do projeto, por causa da flexilidade, o programa possa ser utilizado por mais grupos, como empresas e esportístas.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +95,9 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  O software pretende fornecer dicas viáveis de acordo com as informações fornecidas pelo usuário, enquanto este preenche uma planilha(atividade/hora) com suas tarefas diárias. É possível assim, que o estudante consiga obtenha melhor organização de estudos e controle de seu rendimento diário, semanal e mensal. 
+>
+  Todas as características antes comentadas no tópico "Objetivos" devem ser essencialmente acrescentadas, considerando que o aplicativo pretende simplificar a rotina, diminuir a quantidade de informações decoradas e tempo gasto pelo usuário, então é indispensável que ele seja simples, intuitivo, flexível e interativo.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +113,9 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  O pricipal público-alvo são os estudantes que pretendem prestar algum vestibular e universitários. O foco do aplicativo é auxiliar pessoas que não possuem uma meta mas não consegue se organizar, então é essencial que estes estudantes possuam um objetivo final bem definido, sendo uma característica mais notada entre estudantes do 3° EM, de cursinhos, ou que estudam sozinhos. Como é uma ferramenta de controle de atividades, não é necessário que os usuário tenham algum conhecimento aprimorado em tecnologia, considerando que um dos focos é tornar o software acessível e intuitivo, mas é essêncial que tenha algua base para os vestibulares que pretende prestar.
+>
+  
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
