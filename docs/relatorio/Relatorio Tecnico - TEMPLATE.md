@@ -87,10 +87,6 @@ WANDERSON DE SOUZA PESSOA
 
 Nessa etapa, os próximos tópicos abordaram sobre a teoria de como seria a necessidade e funcionalidade do projeto, utilizando como base as respostas obtidas nas pesquisas realizadas no campus da PUC, como as personas desenvolvidas e como elas seriam beneficiadas pelo programa, assim como necessidades e requisítos necessácios para sua implementação, com a classificação de priorização para cada descrição.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas e Mapas de Empatia
 
 Persona 1(Larissa):
