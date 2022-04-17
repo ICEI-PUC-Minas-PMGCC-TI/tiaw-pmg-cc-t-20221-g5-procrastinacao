@@ -85,7 +85,7 @@ WANDERSON DE SOUZA PESSOA
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nos próximos tópicos será abordado sobre a teoria do projeto, como as personas desenvolvidas e como elas seriam beneficiadas pelo programa, assim como necessidades e requisítos necessácios para sua implementação, com a classificação de priorização para cada descrição. Utilizando como base as respostas obtidas nas pesquisas realizadas no campus da PUC.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
