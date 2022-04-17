@@ -93,21 +93,25 @@ WANDERSON DE SOUZA PESSOA
 
 ## Personas e Mapas de Empatia
 
-- Persona 1(Larissa): É uma jovem que entra precisamente para a solução do problema que o software deve oferecer, principalmente ao considerar sua desorganização com os estudos. Ela tem o objetivo de se formar em seu curso com o melhor rendimento possível e, além de ter isto como objetivo, ela é determinada o suficiente ao ponto de fazer o máximo para cumprir suas metas.
+Persona 1(Larissa):
+- É uma jovem que entra precisamente para a solução do problema que o software deve oferecer, principalmente ao considerar sua desorganização com os estudos. Ela tem o objetivo de se formar em seu curso com o melhor rendimento possível e, além de ter isto como objetivo, ela é determinada o suficiente ao ponto de fazer o máximo para cumprir suas metas.
 >
-Sua visão é mais focada para o mercado de trabalho e como ela irá se adaptar a ele.
+- Sua visão é mais focada para o mercado de trabalho e como ela irá se adaptar a ele.
 >
-O progama pode melhorar seu rendimento estudantil e sua organização de tarefas diárias, preparando-a melhor para o mercado de trabalho.
->
->
-- Persona 2(Guilherme): Tem como objetivo investir em sua carreira professional para seguir seu sonho de ingressar em uma empresa que ajude animais em perigo
->
-Se sente um pouco desnorteado na faculdade por não conseguir se adaptar, além ser ser desmotivado por críticas da família, diminuindo assim sua empolgação e rítmo de estudos.
->
-
+- O progama pode melhorar seu rendimento estudantil e sua organização de tarefas diárias, preparando-a melhor para o mercado de trabalho.
 >
 >
-- Persona 3(Matheus):
+Persona 2(Guilherme):
+- Tem como objetivo investir em sua carreira professional para seguir seu sonho de ingressar em uma empresa que ajude animais em perigo.
+>
+- Se sente um pouco desnorteado na faculdade por não conseguir se adaptar, além ser ser desmotivado por críticas da família, diminuindo assim sua empolgação e rítmo de estudos.
+>
+- O programa pode incentivar ele caso esteja cumprindo suas metas. Além disso, a planilha e os avisos de atividade controlariam suas atividades para que ele não diminua o rítmo de estudos.
+>
+>
+Persona 3(Matheus):
+- É uma pessoa muito ambiciosa, como várias metas, como: morar no exterior, realizar vários cursos/projetos e  possuir vários grupos de amigos.
+- Não consegue organizar todas suas atividades
 >
 >
 
