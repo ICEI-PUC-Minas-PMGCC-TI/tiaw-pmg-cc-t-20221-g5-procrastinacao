@@ -43,16 +43,6 @@ WANDERSON DE SOUZA PESSOA
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
-- [Projeto da Solução](#projeto-da-solução)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Arquitetura da solução](#arquitetura-da-solução)
-- [Avaliação da Aplicação](#avaliação-da-aplicação)
-  - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
-  - [Registros de Testes](#registros-de-testes)
-- [Referências](#referências)
-
 
 # Introdução
 
@@ -88,27 +78,25 @@ WANDERSON DE SOUZA PESSOA
 Nessa etapa, os próximos tópicos abordaram sobre a teoria de como seria a necessidade e funcionalidade do projeto, utilizando como base as respostas obtidas nas pesquisas realizadas no campus da PUC, como as personas desenvolvidas e como elas seriam beneficiadas pelo programa, assim como necessidades e requisítos necessácios para sua implementação, com a classificação de priorização para cada descrição.
 
 ## Personas e Mapas de Empatia
+|                    Larissa                 |![Exemplo de Persona L](images/larissa2.jpg)|
+|--------------------------------------------|------------------------------------------------------------------------------------|
+|                      Meta                  | Se formar em seu curso com o melhor rendimento possível |
+|                    Problemas               | Sua visão é mais focada para o mercado de trabalho, então sente falta de se dedicar à teoria do curso |
+|           Como o projeto pode ajudar       | Melhorar seu rendimento estudantil e sua organização de tarefas diárias |
+>
+>
+|                    Guilherme               |![Exemplo de Persona G](images/guilherme.jpg)|
+|--------------------------------------------|------------------------------------------------------------------------------------|
+|                      Meta                  | Investir em sua carreira professional para seguir seu sonho de ingressar em uma empresa que ajude animais em perigo |
+|                    Problemas               | Desmotivado por críticas da família, diminuindo assim sua empolgação e rítmo de estudos |
+|           Como o projeto pode ajudar       | Incentivar ele a cumprir suas metas e controlariam suas atividades para que ele não diminua o rítmo de estudos|
+>
 
-Persona 1(Larissa):
-- É uma jovem que entra precisamente para a solução do problema que o software deve oferecer, principalmente ao considerar sua desorganização com os estudos. Ela tem o objetivo de se formar em seu curso com o melhor rendimento possível e, além de ter isto como objetivo, ela é determinada o suficiente ao ponto de fazer o máximo para cumprir suas metas.
->
-- Sua visão é mais focada para o mercado de trabalho e como ela irá se adaptar a ele.
->
-- O progama pode melhorar seu rendimento estudantil e sua organização de tarefas diárias, preparando-a melhor para o mercado de trabalho.
->
->
-Persona 2(Guilherme):
-- Tem como objetivo investir em sua carreira professional para seguir seu sonho de ingressar em uma empresa que ajude animais em perigo.
->
-- Se sente um pouco desnorteado na faculdade por não conseguir se adaptar, além ser ser desmotivado por críticas da família, diminuindo assim sua empolgação e rítmo de estudos.
->
-- O programa pode incentivar ele caso esteja cumprindo suas metas. Além disso, a planilha e os avisos de atividade controlariam suas atividades para que ele não diminua o rítmo de estudos.
->
->
-Persona 3(Matheus):
-- É uma pessoa muito ambiciosa, como várias metas, como: morar no exterior, realizar vários cursos/projetos e  possuir vários grupos de amigos.
-- Não consegue organizar todas suas atividades, sendo normalmente chamado de preguiçoso por não conseguir cumprir todas as coisas que ele se dispõe para fazer.
-- Necessita de algo que possa organizar suas atividades, mantendo um limete de atividades, além de recomendações para que possa montar um cronograma mais restrito, principalmente ao considerar que ele ainda está estudando para vestibulares.
+|                    Matheus                 |![Exemplo de Persona M](images/matheus.jpg)|
+|--------------------------------------------|------------------------------------------------------------------------------------|
+|                      Meta                  | Morar no exterior, realizar vários cursos/projetos e  possuir vários grupos de amigos |
+|                    Problemas               | Sua visão é mais focada para o mercado de trabalho e como ela irá se adaptar a ele |
+|           Como o projeto pode ajudar       | organizar suas atividades, mantendo um limite de atividades, além de recomendações para que possa montar um cronograma mais restrito, principalmente ao considerar que ele ainda está estudando para vestibulares |
 >
 >
 
