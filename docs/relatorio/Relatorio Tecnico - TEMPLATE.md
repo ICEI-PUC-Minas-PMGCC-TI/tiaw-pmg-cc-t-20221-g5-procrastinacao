@@ -185,7 +185,7 @@ Todos os membros do grupo participaram ativamente no desenvolvimento da document
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinking  | Miro |  https://miro.com/app/board/uXjVOB2WQhI=/ | 
-|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20221-g5-procrastinacao/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md  | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20221-g5-procrastinacao  | 
 |Wareframes | Figma | https://www.figma.com/file/nfOIiHe123icupTpvNoknF/Untitled?node-id=0%3A1 | 
 
 
