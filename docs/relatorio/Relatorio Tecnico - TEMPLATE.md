@@ -104,10 +104,11 @@ Nessa etapa, os próximos tópicos abordaram sobre a teoria de como seria a nece
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                              |
+|--------------------|------------------------------------|-----------------------------------------------------|
+|Matheus             | Organizar minhas atividades        | Cumprir todas as tarefas que me disponho para fazer |
+|Larissa             | Melhorar meu rendimento estudantil | Me formar e adentrar ao mercado de trabalho         |
+|Guilherme           | Não diminuir o ritmo de estudo     | Investir em sua carreira professional               |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -130,7 +131,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-003| Realizar um sistema de bonificação      | MÉDIA |
 
 ### Requisitos não Funcionais
 
