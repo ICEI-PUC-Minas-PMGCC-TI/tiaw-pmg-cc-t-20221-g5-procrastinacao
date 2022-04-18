@@ -206,22 +206,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 A primeira metodologia utilizada no projeto foi o Brainstorm. Colocando todas as ideias no papel, foi possível projetarmos qual seria nossa matriz CSD(certezas, suposições e dúvidas). A segunda foi o scrum, em que o grupo se dividiu para que cada um realizasse pequenas tarefas que seria interligas no relatório. Com as reuniões realizadas em sala de aula foi possível usar este tempo para organização do trabalho, sendo assim, foi essêncial que cada um contribuísse com com suas ideias para o projeto. Já durante a realização do projeto, foi utilizada principalmente a metodologia do design thinking.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
 ## Divisão de Papéis
 
 A divisão dos papéis e tarefas entre os membros foi organizada de acordo com as especialidades de cada um, sendo separadas entre a entrevista, o relatório, a contrução do esboço do wireframe e criação das personas. 
@@ -244,7 +228,7 @@ Todos os membros do grupo participaram ativamente no desenvolvimento da document
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Apresentação  | Miro |  https://miro.com/app/board/uXjVOB2WQhI=/ | 
+|Processo de Design Thinking  | Miro |  https://miro.com/app/board/uXjVOB2WQhI=/ | 
 |Repositório de código | GitHub |  | 
 |Wareframes | Figma | https://www.figma.com/file/nfOIiHe123icupTpvNoknF/Untitled?node-id=0%3A1 | 
 
