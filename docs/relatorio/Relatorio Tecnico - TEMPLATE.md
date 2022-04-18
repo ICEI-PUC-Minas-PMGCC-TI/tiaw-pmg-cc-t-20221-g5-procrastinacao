@@ -224,14 +224,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
+A divisão dos papéis e tarefas entre os membros foi organizada de acordo com as especialidades de cada um, sendo separadas entre a entrevista, o relatório, a contrução do esboço do wireframe e criação das personas. 
 >
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+Todos os membros do grupo participaram ativamente no desenvolvimento da documentação no Miro, mas teve alguns que realizaram tarefas individuais, são eles:.
+>
+- Gabriel: Apresentação(slides), rascunho dos wireframes;
+>
+- Gustavo: Relatório, entrevista;
+>
+- Ivo: Auxílio com o relatório;
+>
+- Luís: Highlights da Pesquisa;
+>
+- Wanderson: Estruturação dos wireframes pelo Figma e estilo do software.
+>
 
 ## Ferramentas
 
@@ -239,10 +245,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB2WQhI=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/nfOIiHe123icupTpvNoknF/Untitled?node-id=0%3A1 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -269,7 +275,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Versão 1.0: versão inicial, atualização de bugs e recursos visuais;
+- Versão 2.0: mais otimizada, novas ferramentas e harmonização do visual;
+- Versão 3.0: mais estável e mais otimizada;
+- Versão 4.0: versão final: Testes realizadas, bugs corrigidos, ferramentas definidas, visual definido e estável. 
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
